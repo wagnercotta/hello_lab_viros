@@ -1,2 +1,3 @@
 first line
-new second line
+second line
+third line
